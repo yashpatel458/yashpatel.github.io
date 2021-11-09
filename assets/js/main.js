@@ -191,7 +191,7 @@
   });
 
   /**
-   * Portfolio details slider
+   * portfolio details slider
    */
   new Swiper('.portfolio-details-slider', {
     speed: 400,
