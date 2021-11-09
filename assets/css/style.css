@@ -708,6 +708,10 @@ section {
   padding: 0;
 }
 
+.container .projbtn{
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -1036,7 +1040,7 @@ section {
   padding: 10px 24px;
   color: #fff;
   transition: 0.4s;
-  border-radius: 15px;
+  border-radius: 8px;
 }
 
 .contact .php-email-form button[type="submit"]:hover {
