@@ -878,7 +878,7 @@ section {
 
 
   padding-bottom: 100px;
-  background-image: url(../img/contact-bg.jpg);
+  background-image: url(../img/5570862.ai);
   background-position: center;
   background-size: cover;
   padding-left: 30px;
@@ -888,10 +888,10 @@ section {
 
 .contact .info {
   background: rgba(26, 26, 26, 0);
-  border-radius: 16px;
+  border-radius: 36px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(7px);
-  -webkit-backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(5px);
   border: 1px solid rgba(255, 255, 255, 0.147);
   padding: 30px;
 
